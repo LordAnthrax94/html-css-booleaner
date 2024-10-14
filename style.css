@@ -1,16 +1,16 @@
 body{font-size: 16px;
 font-weight: 500;}
 .header-image{
-  background-image: url(/img/pattern.png);
+  background-image: url(./img/pattern.png);
   object-fit: fill;
   background-color: rgb(78, 161, 255);
-  background-size: cover;
+  background-size: 100px;
   text-align: bottom;
   font-weight: bold;
   color: white;
   height: 80px; 
 }
-Span{text-decoration-color: yellow;}
+Span{text-wrap: yellow;}
 .title{text-align: justify;
 }
 .subtitle{font-size: 1.2rem; 
@@ -31,7 +31,8 @@ object-fit: fill}
 
 #table-1{background-color: rgb(177, 230, 242);}
 
-.toptable{background-color: rgb(32, 170, 226);}
+.toptable{background-color: rgb(32, 170, 226);
+color:white}
 
 
 
@@ -44,3 +45,8 @@ object-fit: fill}
 h2.footer{font-size: 1.2rem;
 font-weight: bold;
 color: rgb(129, 129, 129);}
+
+
+#Boxend1{background-image: url(./img/tim-1.jpg);
+background-size: cover;
+}
