@@ -29,4 +29,18 @@ object-fit: fill}
 
 .list{text-align: left;}
 
-.boxtable
+#table-1{background-color: rgb(177, 230, 242);}
+
+.toptable{background-color: rgb(32, 170, 226);}
+
+
+
+.Section-4{}
+
+
+
+.footer{}
+
+h2.footer{font-size: 1.2rem;
+font-weight: bold;
+color: rgb(129, 129, 129);}
