@@ -4,49 +4,61 @@ font-weight: 500;}
   background-image: url(./img/pattern.png);
   object-fit: fill;
   background-color: rgb(78, 161, 255);
-  background-size: 100px;
+  background-size: 300px;
   text-align: bottom;
   font-weight: bold;
   color: white;
-  height: 80px; 
-}
-Span{text-wrap: yellow;}
-.title{text-align: justify;
-}
+  height: 80px;}
+
+  #logo-1{width: 150px;
+  }
+  
 .subtitle{font-size: 1.2rem; 
-font-weight: bold;
- 
-}
+font-weight: bold;}
+
 p.subtitle{color: rgb(144, 144, 144);}
-{color:rgb(221, 255, 255);}
+
 
 .subtitle  span{color: rgb(221, 255, 255);}
 
-.Section-1 p{text-align: Left; font-size: 0.8rem;
+.section-1 p{text-align: Left; font-size: 0.8rem;
 object-fit: fill}
 
-.boxlist{}
 
 .list{text-align: left;}
 
-#table-1{background-color: rgb(177, 230, 242);}
+.list span{background-color: yellow ;}
+
+.table-1{background-color: rgb(177, 230, 242);}
+
 
 .toptable{background-color: rgb(32, 170, 226);
 color:white}
 
+.section-4 span{background-color: yellow ;}
 
-
-.Section-4{}
-
-
-
-.footer{}
-
-h2.footer{font-size: 1.2rem;
+.footer{font-size: 0.9rem;
 font-weight: bold;
 color: rgb(129, 129, 129);}
 
+footer p{color:white; font-size: 1.1rem;text-align: top left;}
 
-#Boxend1{background-image: url(./img/tim-1.jpg);
-background-size: cover;
-}
+
+#boxend1{background-image: url(./img/monitor.jpg);
+ background-size: 500px;
+ object-fit: ;
+ width: 250px;
+ height: 150px;
+ background-position: center;
+ background-repeat: no-repeat;
+ background-size: cover;}
+
+#boxend2{background-image: url(./img/graph.jpg);
+  background-size: 500px;
+  display: block;
+  width: 250px;
+  height: 150px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;}
+
